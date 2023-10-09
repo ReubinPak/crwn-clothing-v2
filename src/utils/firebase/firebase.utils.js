@@ -50,4 +50,5 @@ export const createUserDocumentFromAuth = async (userAuth) => {
   }
 
   return userDocRef;
+  //userDoc
 };
