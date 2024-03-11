@@ -100,7 +100,7 @@ const SignUpFrom = () =>{
                     name="confirmedPassword" 
                     value={confirmedPassword}
                 />
-                <Button buttonType='google' type="submit">Sign Up</Button>
+                <Button buttonType='inverted' type="invert">Sign Up</Button>
             </form>
         </div>
     )
